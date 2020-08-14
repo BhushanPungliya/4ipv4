@@ -40,7 +40,7 @@ https://flickity.metafizzy.co
   width: 100%;
 }
 
-@media(min-width: 540px){
+@media(min-width: 320px){
   .card-grid{
     grid-template-columns: repeat(2, 1fr); 
   }
